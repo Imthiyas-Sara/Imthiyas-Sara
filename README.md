@@ -10,7 +10,7 @@ I'm an undergraduate student with a passion for software development and technol
 ## 🧰 Skills & Tools
 - Languages: HTML, CSS, JavaScript, C, C#, C++
 - Currently Exploring: Git & GitHub, Responsive Web Design
-- Tools: VS Code, Intellij
+- Tools: VS Code, Intellij, NetBeans
 
 ## 📚 Learning Goals
 - Strengthen frontend development skills
