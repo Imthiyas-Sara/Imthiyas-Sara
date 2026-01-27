@@ -8,9 +8,9 @@ I'm an undergraduate student with a passion for software development and technol
 - Expected Graduation: 2027
 
 ## 🧰 Skills & Tools
-- Languages: HTML, CSS, JavaScript, C, C#, C++
+- Languages: HTML, CSS, JavaScript, C, C#, C++, Java
 - Currently Exploring: Git & GitHub, Responsive Web Design
-- Tools: VS Code, Intellij, NetBeans
+- Tools: VS Code, Intellij, Dev-C++, NetBeans
 
 ## 📚 Learning Goals
 - Strengthen frontend development skills
