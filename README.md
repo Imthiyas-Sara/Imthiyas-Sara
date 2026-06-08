@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imthiyas-Sara&show_icons=true" />
-</p>
-
 # Hello, I'm Imthiyas Sara 👋
 ### 💻 Software Engineering Student | Full-Stack Developer | Tech Enthusiast
 
@@ -37,9 +33,3 @@ I'm an undergraduate student with a passion for software development and technol
 - 🌐 Portfolio: https://imthiyas-sara.github.io/portfolio/
 - 💻 GitHub: https://github.com/Imthiyas-Sara
 - 🔗 LinkedIn: https://www.linkedin.com/in/sara-imthiyas/
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imthiyas-Sara&layout=compact)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Imthiyas-Sara&color=blue)
-
-⭐ Thanks for visiting my profile!
