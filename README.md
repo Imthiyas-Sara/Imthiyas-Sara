@@ -1,23 +1,45 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imthiyas-Sara&show_icons=true" />
+</p>
+
 # Hello, I'm Imthiyas Sara 👋
+### 💻 Software Engineering Student | Full-Stack Developer | Tech Enthusiast
 
 I'm an undergraduate student with a passion for software development and technology. I’m currently building a strong foundation in web development and programming, and I'm excited to apply what I learn to real-world projects.
 
 ## 🎓 Education
-- Undergraduate Student at SLIIT CITY UNI  
-- Field of Study: Information Technology 
-- Expected Graduation: 2027
+
+- **BSc (Hons) Software Engineering** – SLIIT City University  
+    Expected Graduation: 2027
 
 ## 🧰 Skills & Tools
-- Languages: HTML, CSS, JavaScript, C, C#, C++, Java
-- Currently Exploring: Git & GitHub, Responsive Web Design
-- Tools: VS Code, Intellij, Dev-C++, NetBeans
 
+**Programming Languages:** Java, Python, C, C++, C#
+**Web Technologies:** HTML, CSS, JavaScript, PHP, Bootstrap, jQuery, JSON
+**Databases:** MySQL, MongoDB
+**Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, NetBeans, Android Studio, WAMP, XAMPP, Power BI
+
+## 🚀 Featured Projects
+
+- **Patient Record Management System** – REST-based CRUD system using Node.js & MongoDB  
+- **InkHive Book App** – Android app using Firebase & Google Books API  
+- **EcoBloom E-Commerce Platform** – Full-stack web application using PHP & MySQL
+  
 ## 📚 Learning Goals
+
 - Strengthen frontend development skills
 - Understand the basics of backend development
 - Build and contribute to projects on GitHub
 - Explore open-source contributions
 
-## 📬 Connect with Me
-- LinkedIn:https://www.linkedin.com/in/sara-imthiyas/
+## 🌐 Portfolio & Profiles
 
+- 🌐 Portfolio: https://imthiyas-sara.github.io/portfolio/
+- 💻 GitHub: https://github.com/Imthiyas-Sara
+- 🔗 LinkedIn: https://www.linkedin.com/in/sara-imthiyas/
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imthiyas-Sara&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Imthiyas-Sara&color=blue)
+
+⭐ Thanks for visiting my profile!
