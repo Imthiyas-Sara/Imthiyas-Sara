@@ -11,8 +11,11 @@ I'm an undergraduate student with a passion for software development and technol
 ## 🧰 Skills & Tools
 
 **Programming Languages:** Java, Python, C, C++, C#
+
 **Web Technologies:** HTML, CSS, JavaScript, PHP, Bootstrap, jQuery, JSON
+
 **Databases:** MySQL, MongoDB
+
 **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, NetBeans, Android Studio, WAMP, XAMPP, Power BI
 
 ## 🚀 Featured Projects
