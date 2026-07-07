@@ -14,7 +14,7 @@ I'm an undergraduate student with a passion for software development and technol
 
 **Web Technologies:** HTML, CSS, JavaScript, PHP, Bootstrap, jQuery, JSON
 
-**Databases:** MySQL, MongoDB
+**Databases:** MySQL, MongoDB, PostgreSQL
 
 **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, NetBeans, Android Studio, WAMP, XAMPP, Power BI
 
